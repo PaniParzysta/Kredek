@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Witaj na stronie z pycha przepisami</title>
+    
+    <link href="styles/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <!--Nagłówek -->
+    <header>
+        Witaj na stronie z pycha przepisami!
+    </header>
+    <!-- Obrazek -->
+    <section>
+        <center>
+            <a href="index.html"><img src="Images/sg.png" style="border: 0" alt="tekst alternatywny"></a>
+            <a href="second.html"><img src="Images/1.png" style="border: 0" alt="tekst alternatywny"></a>
+            <a href="third.html"><img src="Images/2.png" style="border: 0" alt="tekst alternatywny"></a>
+        </center>
+    </section>
+    <section2>
+
+        <!-- Tekst na stronie -->
+        <div class="left-half">
+            <h2>Witaj na stronie z przepisami, aby przejść do wybranych przepisów kliknij jeden z powyższych guzików. Możesz również poklikać zdjęcia obok.</h2>
+        </div>
+
+        <!-- Obrazek -->
+        <div class="right-half">
+            <p>
+                <img id="foodImages" src="Images/bab.jpg" onclick="StartPictures();" />
+            </p>
+        </div>
+
+        <!-- Zegar -->
+        <div id="clock"></div>
+    </section2>
+    <!-- Podłączenie pliku script i uruchomienie zegara-->
+    <script src="scripts/script.js"></script>
+    <script>Clock()</script>
+
+</body>
+</html>

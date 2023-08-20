@@ -1,0 +1,49 @@
+﻿
+/* Styl klasy ciała strony */
+body {
+    background-color: lightpink;
+}
+
+/* Styl klasy nagłówka */
+header {
+    width: 100%;
+    height: 100px;
+    color: white;
+    font-size: 70px;
+    text-align: center;
+}
+
+/* Styl klasy sekcji z przyciskami */
+section {
+    width: 100%;
+    height: auto;
+    background-color: lightgrey;
+}
+
+/* Styl klasy sekcji 2 */
+section2 {
+    width: 100%;
+    height: auto;
+    background-color: darkgrey;
+    float: left;
+}
+
+/* Styl klasy zajmującej prawą połowę */
+.right-half {
+    width: 50%;
+    float: right;
+    display: flex;
+}
+
+/* Styl klasy zajmującej lewą połowę */
+.left-half {
+    width: 50%;
+    float: left;
+}
+
+/* Styl klasy zegara */
+#clock {
+    font-size: 20px;
+    text-align: center;
+    color: steelblue
+}
