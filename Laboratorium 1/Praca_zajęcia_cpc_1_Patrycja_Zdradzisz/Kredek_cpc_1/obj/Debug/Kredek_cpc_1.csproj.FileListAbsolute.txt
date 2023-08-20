@@ -1,0 +1,11 @@
+C:\Users\Pati\source\repos\Kredek_cpc_1\Kredek_cpc_1\bin\Debug\Kredek_cpc_1.exe.config
+C:\Users\Pati\source\repos\Kredek_cpc_1\Kredek_cpc_1\bin\Debug\Kredek_cpc_1.exe
+C:\Users\Pati\source\repos\Kredek_cpc_1\Kredek_cpc_1\bin\Debug\Kredek_cpc_1.pdb
+C:\Users\Pati\source\repos\Kredek_cpc_1\Kredek_cpc_1\obj\Debug\Kredek_cpc_1.csprojAssemblyReference.cache
+C:\Users\Pati\source\repos\Kredek_cpc_1\Kredek_cpc_1\obj\Debug\Kredek_cpc_1.FormMain.resources
+C:\Users\Pati\source\repos\Kredek_cpc_1\Kredek_cpc_1\obj\Debug\Kredek_cpc_1.Properties.Resources.resources
+C:\Users\Pati\source\repos\Kredek_cpc_1\Kredek_cpc_1\obj\Debug\Kredek_cpc_1.csproj.GenerateResource.cache
+C:\Users\Pati\source\repos\Kredek_cpc_1\Kredek_cpc_1\obj\Debug\Kredek_cpc_1.csproj.CoreCompileInputs.cache
+C:\Users\Pati\source\repos\Kredek_cpc_1\Kredek_cpc_1\obj\Debug\Kredek_cpc_1.exe
+C:\Users\Pati\source\repos\Kredek_cpc_1\Kredek_cpc_1\obj\Debug\Kredek_cpc_1.pdb
+C:\Users\Pati\source\repos\Kredek_cpc_1\Kredek_cpc_1\obj\Debug\Kredek_cpc_1.FormNew.resources
