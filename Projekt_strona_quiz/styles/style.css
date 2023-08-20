@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(163, 163, 163);
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+}
+
+.headers{
+   font-size: 50px; 
+}
+
+#title{
+   padding: 300px; 
+}
